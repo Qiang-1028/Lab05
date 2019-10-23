@@ -1,28 +1,26 @@
 @import url('https://fonts.googleapis.com/css?family=Modak&display=swap');
-
 body {
-	background-image:url(/images/background.gif);
-	font-family: 'Times New Roman', Times, serif;
+	background-image:url(https://assets3.thrillist.com/v1/image/2794471/size/sk-2017_04_article_text_width_desktop.jpg);
+	font-family: Georgia, serif;
+	color:white
 }
 h1 {
-	font-family: 'Times New Roman', serif;
+	font-family: Georgia, serif;
 	text-align: center;
-	font-size: 40px;
-	color: gray;
+	font-size: 35px;
+	color: white;
 }
 table, td, th {  
-  border: 1.5px solid #ddd;
+  border: 1px solid gray;
   text-align: center;
+  margin:auto;
 }
 
 table {
-  border-collapse: separate;
-  width: 100%;
+  border-collapse: collapse;
+  width: 80%;
 }
 
-th {
-  padding: 5px;
-}
-td {
-padding:3px;
+th ,td{
+  padding: 15px;
 }
