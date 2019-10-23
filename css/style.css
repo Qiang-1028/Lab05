@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Modak&display=swap');
+
+body {
+	background-image:url(/images/background.gif);
+	font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+	font-family: 'Times New Roman', serif;
+	text-align: center;
+	font-size: 40px;
+	color: gray;
+}
+table, td, th {  
+  border: 1.5px solid #ddd;
+  text-align: center;
+}
+
+table {
+  border-collapse: separate;
+  width: 100%;
+}
+
+th {
+  padding: 5px;
+}
+td {
+padding:3px;
+}
